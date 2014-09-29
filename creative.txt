@@ -1,0 +1,33 @@
+Name: Jiwon Song	Student ID: 420500
+Name: Amy Xu		Student ID: 429851
+
+link to running ec2 instance: 
+http://ec2-54-68-130-119.us-west-2.compute.amazonaws.com/~jiwonsong/home.php
+
+Creative Portion:
+1. Created a MyAccount page for logged in users to see all their posts and comments. In this page, you can upload a new post and edit/delete your posts and comments.
+
+2. Created a feedback form so that the viewers/users of this website can provide suggestions to the administrator. 
+	Once the feedback is submitted, it emails the feedback message to the administrator.
+
+4. The user gets an email notification if someone comments on the user's post.
+	
+3. We created the option for logged in users to follow other users. You can follow users by clicking a 'follow' button in each post. 
+	When you 'follow' someone, you will get email notifications when that person uploads a new post. 
+	Once you follow someone, you will no longer see the 'follow' button on their posts. (this makes sense)
+	Also you cannot follow yourself.
+	You will not get an email notification for that person making new comments (we thought that would bomb your email with junk).
+
+Additional information for TAs:
+
+username:			password:
+amy					amyxu
+jiwon				jiwonsong
+cse330				module3
+
+To check to see if you get an email notification from a followed user when he/she uploads a new post, i made a gmail account for the user 'cse330'.
+
+email: cse330module3@gmail.com
+password: module3_amy_jiwon
+
+the user 'cse330' is already following 'jiwon', so if 'jiwon' uploads a new story, cse330 would get an email.
